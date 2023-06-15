@@ -65,4 +65,4 @@ basically in this project Html and css and JavaScript is used here <b>Web Compon
  </table>
  
  #### Visit Site 
- <a href="https://East Coast-clone-2022.netlify.app/">Click to Visit</a>
+ <a href="https://vocal-travesseiro-7b3b06.netlify.app">Click to Visit</a>
